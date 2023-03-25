@@ -1,14 +1,15 @@
 # barcodeScaner
 
 ## Install
-`pip install -r requirements.txt`
-## Usage
-Rename the photo as 'test.png'
-<br>
-then:
 
-`python main.py`
+`pip install -r requirements.txt`
+
+## Usage
+
+```
+python src/main.py
+```
 
 ## Contribute
 
-`git clone https://github.com/Muffeter/barcodeScaner.git`
+`git clone git@github.com:TGUclub/barcodeScaner.git`
