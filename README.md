@@ -4,8 +4,6 @@
 `pip install -r requirements.txt`
 ## Usage
 
-`pip install -r requirements.txt`
-
 `python ./src/main.py`
 
 ## Contribute
